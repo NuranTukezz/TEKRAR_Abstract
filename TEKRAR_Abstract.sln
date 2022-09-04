@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEKRAR_Abstract", "TEKRAR_Abstract.csproj", "{52CBE9AE-B8E7-4484-BD9B-1C8974E5BCAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52CBE9AE-B8E7-4484-BD9B-1C8974E5BCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CBE9AE-B8E7-4484-BD9B-1C8974E5BCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CBE9AE-B8E7-4484-BD9B-1C8974E5BCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CBE9AE-B8E7-4484-BD9B-1C8974E5BCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C45A5DD-2476-44F6-93FB-3488360C285A}
+	EndGlobalSection
+EndGlobal
